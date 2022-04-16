@@ -1,6 +1,8 @@
 # 2048
 2048 game in Windows API
 
+DISCLAIMER:
+
 Project was produced in span of approximately 10h as a school project (1st project in Windows API).
 The code does not represent actual state of programming knowledge of author.
 The project has functions inspired by a project from site https://code-projects.org/2048-game-in-c-with-source-code/
